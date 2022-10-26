@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.modal1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color:#FFB8CA ;
+    display: flex;
+    
+}
+
+.modal-container1 {
+    position: relative;
+    margin: auto;
+    width: 90 %;
+    max-width: 600px;
+    max-height: 100%;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 3em 2.5em;
+    display: grid;
+    gap: 1em;
+    place-items: center;
+    grid-auto-columns: 100%;
+}
+
+.title1{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.paragraph1{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.modal-image1{
+    width: 50%;
+    max-width: 200px;
+}
+
+.btns1{
+    display: flex;
+    gap: 15px;
+}
+
+.btns1 > a{
+    text-decoration: none;
+    padding: 1rem;
+    border-radius: .3rem;
+    color: #fff;
+    font-weight: 400;
+}
+
+.btns1 .open-locations{
+    color: #FFB8CA;
+    background-color:  #fff;
+    border-radius: solid thin #ffb8ff ;
+
+}
+
+.send-a-gift{
+    background-color: #ffb8ff;
+}
+.close1{
+    position: absolute;
+    top: .5rem;
+    right: 1rem;
+    font-size: 2rem;
+    text-decoration: none;
+}
