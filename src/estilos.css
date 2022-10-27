@@ -81,6 +81,7 @@ cursor: pointer;
     box-shadow: 0 10px 15px rgba (0, 0, 0, .1);
     width: fit-content;
     height: fit-content;
+    margin: 0 auto;
 }
 
 .contenido form .inputBox {
@@ -108,7 +109,7 @@ cursor: pointer;
 }
 
 .submit-btn {
-        margin: auto;
+        margin-top: 5px;
         background-color: #FFB8CA;
         color: #fff;
         text-decoration: none;
