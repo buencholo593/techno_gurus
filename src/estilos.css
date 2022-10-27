@@ -141,3 +141,5 @@ input:focus::placeholder {
 .card-holder-input{
     text-transform: uppercase;
 }
+
+@media (max-width:600px)

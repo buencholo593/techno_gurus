@@ -1,22 +1,22 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'DM Sans', sans-serif;
 }
 
-.modal1 {
+.modal3 {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background-color:#FFB8CA ;
+    background-color: #FFB8CA;
     display: flex;
-    
+
 }
 
-.modal-container1 {
+.modal-container3 {
     position: relative;
     margin: auto;
     width: 90 %;
@@ -31,46 +31,24 @@
     grid-auto-columns: 100%;
 }
 
-.title1{
+.title3 {
     text-align: center;
     font-size: 2.5rem;
     font-weight: 400;
+    color: #D41443;
 }
 
-.paragraph1{
+.paragraph3 {
     text-align: center;
     margin-bottom: 1rem;
 }
 
-.modal-image1{
+.modal-image3 {
     width: 50%;
     max-width: 200px;
 }
 
-.btns1{
-    display: flex;
-    gap: 15px;
-}
-
-.btns1 > a{
-    text-decoration: none;
-    padding: 1rem;
-    border-radius: .3rem;
-    color: #fff;
-    font-weight: 400;
-}
-
-.btns1 .open-locations{
-    color: #FFB8CA;
-    background-color:  #fff;
-    border-radius: solid thin #ffb8ff ;
-
-}
-
-.send-a-gift{
-    background-color: #ffb8ff;
-}
-.close1{
+.close3 {
     position: absolute;
     top: .5rem;
     right: 1rem;
