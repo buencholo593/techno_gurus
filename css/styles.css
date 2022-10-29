@@ -123,7 +123,7 @@ nav ul li {
 }
 
 .hero {
-  background-image: url('.././images/eat-icecream.png'), url('/images/icecream-header.png'), url('/images/Ellipse-pink3.png');
+  background-image: url('.././images/eat-icecream.png'), url('.././images/icecream-header.png'), url('.././images/Ellipse-pink3.png');
   background-repeat: no-repeat;
   background-position: bottom right, top 108px right 328px, top 54px right 149px;
   position: relative;
@@ -1358,7 +1358,7 @@ input:focus::placeholder {
   }
 
   .hero {
-    background-image: url('.././images/icecream-header.png'), url('/images/Ellipse-pink3.png');
+    background-image: url('.././images/icecream-header.png'), url('.././images/Ellipse-pink3.png');
     background-repeat: no-repeat;
     background-position: top 150px right 40px, top 100px right -70px;
     background-size: 160px, 350px;
@@ -2390,7 +2390,7 @@ input:focus::placeholder {
   }
 
   .hero {
-    background-image: url('.././images/eat-icecream.png'), url('/images/icecream-header.png'), url('/images/Ellipse-pink3.png');
+    background-image: url('.././images/eat-icecream.png'), url('.././images/icecream-header.png'), url('.././images/Ellipse-pink3.png');
     background-repeat: no-repeat;
     background-position: bottom right, top 110px right 320px, top 40px right 170px;
     background-size: 220px, 140px, 350px;
@@ -3414,7 +3414,7 @@ input:focus::placeholder {
   }
 
   .hero {
-    background-image: url('.././images/eat-icecream.png'), url('/images/icecream-header.png'), url('/images/Ellipse-pink3.png');
+    background-image: url('.././images/eat-icecream.png'), url('.././images/icecream-header.png'), url('.././images/Ellipse-pink3.png');
     background-repeat: no-repeat;
     background-position: bottom right, top 108px right 328px, top 54px right 149px;
     background-size: initial;
